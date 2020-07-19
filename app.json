@@ -1,0 +1,12 @@
+{
+  "name": "supportWheelOfFate",
+  "displayName": "supportWheelOfFate",
+  "expo": {
+    "name": "supportWheelOfFate",
+    "slug": "supportWheelOfFate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
