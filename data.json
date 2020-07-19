@@ -1,0 +1,26 @@
+{
+    days : {
+    FirstMonday: [],
+    FirstTuesday: [],
+    FirstWednesday: [],
+    FirstThursday: [],
+    FirstFriday: [],
+    SecondMonday: [],
+    SecondTuesday: [],
+    SecondWednesday: [],
+    SecondThursday: [],
+    SecondFriday: [],
+    },
+  workers : [
+        "Darius Stirbei",
+        "Silviu Zaituc",
+        "Serafim Galca",
+        "Ionel Puscas",
+        "Nandru Sandulescu",
+        "Mihaita Hurgoi",
+        "Teodor Chirila",
+        "Andrei Osmochescu",
+        "Flaviu Calinescu",
+        "Vlad Baboescu"
+    ]
+}
